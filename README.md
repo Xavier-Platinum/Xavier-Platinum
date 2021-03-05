@@ -63,7 +63,7 @@
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Xavier-Platinum/SuppLogistics" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Xavier-Platinum&repo=SuppLogistics&theme=gotham"></a>
 <br><br><br><br><br><br><br><br><br><br><br><br><br> -->
-<h4 align="center"><a href="https://github.com/Xavier-Platinum?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
+<h4 align="center"><a href="https://github.com/Xavier-Platinum?tab=repositories" title="Show Repositories">🔎 View All Repos 🔍</a></h4>
 
 
 <!-- **Xavier-Platinum/Xavier-Platinum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
