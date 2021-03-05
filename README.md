@@ -6,7 +6,7 @@
   }
 </style> -->
 <h3 align="center">Hello there, I'm Xavier_dev 👋</h3>
-<img class="my-img" src="./img/law.jpeg" alt="Xavier_Dev" align="center" width="550px" height="450px" style="background-position: center center; background-size: cover; background-repeat: no-repeat;">
+<img class="my-img" src="./img/law.jpeg" alt="Xavier_Dev" align="center" width="550px" height="450px" style="background-position: center center; background-size: cover; background-repeat: no-repeat; align-items: center;">
 <br>
 <br>
 <h5 align="center">
