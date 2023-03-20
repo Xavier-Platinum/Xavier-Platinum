@@ -10,24 +10,24 @@
 <br>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/lawrence-kwis-614294189/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/lawrencekwis/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://twitter.com/dev_kwis" title="HackerRank Profile"><img width="22" src="https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk"> Twitter</a></code>
   <code><a href="https://www.instagram.com/xavier_dev.io/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 
 <br>
 <p align="center">
-  Hi, I'm Kwis Lawrence Francis, FullStack Web, Intermediate Mobile Developer and ML, AI enthusiast.
+  Hi there, My name is Kwis Lawrence Francis, FullStack Web (Backend Heavy), Mobile Developer, and an ML/AI enthusiast.
   <br>
   <br>
-  🔬 Currently studying Computer Science in the University of Jos, pursuing my BSc(Bachelor Degree of Science).
+  🔬 Studied Computer Science, University of Jos.(Bachelor Degree of Science).
   <br>
 
   💻 Code magnet (Elite Coder).
   <br>
-  📚 I code in JavaScript, Python(Intermediate) and some of their frameworks, (Node.Js, REact.Js, React Native), Django concurrently.
+  📚 I code in JavaScript(Node.Js, Nest.Js, React.Js, Next.Js, Angular, React-Native), Python(Django), of course Typescript adaptive coder, Creative thinking, Fast Learner and Language is not a barrier.
   <br>
-  📫 How to reach me: <a href="mailto: kwislawrencekwis@gmail.com">kwislawrencekwis</a>
+  📫 How to reach me: <a href="mailto: kwislawrencekwis@gmail.com">kwislawrencekwis</a><a href="tel:+2347042380581">0704 238 0581</a>
 </p>
 
 <hr>
@@ -39,6 +39,7 @@
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
   <code><img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png"></code>
   <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  <code><img title="Typescript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/typescript.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
@@ -54,7 +55,7 @@
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Xavier-Platinum&show_icons=true&theme=gotham">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-Platinum&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  <img height=175 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-Platinum&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier-Platinum&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=12&layout=compact)" />
   </a>
 </p>
 
@@ -76,10 +77,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Music Streaming Platform
+- 🔭 I’m currently Freelancing.
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on E-Commerce open-source.
-- 🤔 I’m looking for help with learning a new tech skill.
+- 👯 I’m looking to collaborate on AI open-source.
+- 🤔 Out loud.
 - 💬 Ask me about ?? 
 - 📫 How to reach me: ['Contact'](+2348163252713)
 <!-- - 😄 Pronouns: ...
